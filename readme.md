@@ -68,7 +68,7 @@ $ git checkout <branchname>
 To add the changes to the branch. Use
 ```python
 # To add all files to branch
-`$ git add .
+$ git add .
 ```
 Type in a message relevant for the code reveiwer using 
 ```python
