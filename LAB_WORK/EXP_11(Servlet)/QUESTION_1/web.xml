@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>Exp11_Ques1</display-name>
+  
+  <servlet>
+   <servlet-name>Ques1</servlet-name>
+   <servlet-class>Ex11.Ques1</servlet-class>
+</servlet>
+<servlet-mapping>
+   <servlet-name>Ques1</servlet-name>
+   <url-pattern>/add</url-pattern>
+   </servlet-mapping>
+<context-param>
+   <param-name>uname</param-name>
+   <param-value>Abhishek Sharma</param-value>
+</context-param>
+<context-param>
+   <param-name>email</param-name>
+   <param-value>500067644@stu.upes.ac.in</param-value>
+</context-param>
+
+   
+</web-app>

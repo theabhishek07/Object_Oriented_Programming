@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>Exp11_Ques2</display-name>
+  <servlet>
+  <servlet-name>Exp11_Ques2</servlet-name>
+  <servlet-class>Ques2</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>Exp11_Ques2</servlet-name>
+ <url-pattern>/Ques2</url-pattern>
+ </servlet-mapping>
+  
+</web-app>
