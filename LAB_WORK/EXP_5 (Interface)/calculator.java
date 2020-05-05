@@ -6,7 +6,7 @@ interface cal
 int division(int num);
 int modules(int num);
 }
-public class Calc implements cal
+public class Calculator implements cal
 {
 public int division(int num){
 return num/2;
@@ -16,7 +16,7 @@ return num%2;
 }
 public static void main(String args[])
 {
-Calc c1= new Calc();
+Calculator c1= new Calculator();
 System.out.println(c1.division(2));
 System.out.println(c1.modules(2));
 }

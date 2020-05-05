@@ -1,7 +1,7 @@
 //Q3. Write a program to print Fibonacci series using loop.
 
 //Program:-
-public class Fibonacci series {
+public class Fibonacci_series {
     public static void main(String[] args) {
      int n1=0,n2=1,n3,i,count=10;  
  System.out.print(n1+" "+n2);//printing 0 and 1  

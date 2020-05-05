@@ -44,7 +44,7 @@ salary+=(salary*per)/100;
 
     public static void main(String[] args) 
     { 
-        employee g1 = new employee(67759,"Aman",500000); 
+        employee g1 = new employee(67759,"ABHISHEK",500000); 
         System.out.println("Employee Salary:"+g1.getsalary());
         System.out.println("Employee Name:"+g1.getname());
 	g1.increasesalary(10);
