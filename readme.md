@@ -36,7 +36,7 @@ See the changes using
  origin https://github.com/Your_Username/Object_Oriented_Programming.git (fetch)                                                      
  origin https://github.com/Your_Username/Object_Oriented_Programming.git (push)                                                        
  upstream https://github.com/theabhishek07/Object_Oriented_Programming.git (fetch)                                                     
- upstream https://github.com/theabhishek07/Object_Oriented_Programmingt.git (push)
+ upstream https://github.com/theabhishek07/Object_Oriented_Programming.git (push)
  ```
 
 ## 3. Sync with the Remote 🔄
