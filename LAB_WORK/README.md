@@ -105,20 +105,20 @@
 
 ## TITLE: *Collections*
 
-1.	Write a program for the following:
+1.	Write a program for the following: -
 
 * Read all elements from ArrayList by using Iterator.
 * Create duplicate object of an ArrayList instance.
 * Reverse ArrayList content.
 
-2.	Write a program for the following HashMap
+2.	Write a program for the following HashMap: -
 
 * find whether specified key exists or not.
 * find whether specified value exists or not
 * get all keys from the given HashMap
 * get all key-value pair as Entry objects
 
-3.	Write a program for the following HashSet
+3.	Write a program for the following HashSet:-
 
 * copy another collection object to HashSet object.
 * delete all entries at one call from HashSet
