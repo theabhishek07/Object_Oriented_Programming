@@ -52,7 +52,7 @@ $ git reset --hard upstream/master
 $ git push origin master
 ```
 
-## 4. Create a new branch ‼️
+## 4. Create a new branch
 Whenever you are going to make a contribution. Please create a new branch using the command below and keep your `master` branch clean (i.e. synced with remote branch).
 ```python
 # It will create a new branch <branchname> with name and switch to branch <branchname>
